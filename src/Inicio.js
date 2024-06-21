@@ -17,9 +17,7 @@ function Inicio() {
                     que incorporan malla multicapa y amortiguación con respuesta inmediata para que no pares de jugar. Estos <strong>zapatos de básquet</strong> 
                     tiene una correa en el mediopié, como un ligero guiño a la conocida <strong>KD4</strong>.
                     <h3>Beneficios del producto</h3></p>
-                    <ul><li>Cierre que envuelve la parte superior de las agujetas para ofrecer un ajuste firme.</li><li>Construcción de poliéster.</li>
-                    <li>Material resistente.</li><li>Correa ajustable.</li><li>Sistema de ajuste con cordones.</li><li>Suela de goma de alta resistencia a la abrasión.</li>
-                    <li>Diseño estampado.</li><li>Lengüeta para mayorcomodidad.</li></ul>
+                    <ul><li>Cierre que envuelve la parte superior de las agujetas para ofrecer un ajuste firme.</li><li>Construcción de poliéster.</li><li>Material resistente.</li><li>Correa ajustable.</li><li>Sistema de ajuste con cordones.</li><li>Suela de goma de alta resistencia a la abrasión.</li><li>Diseño estampado.</li><li>Lengüeta para mayorcomodidad.</li></ul>
 
                     
                 </div>

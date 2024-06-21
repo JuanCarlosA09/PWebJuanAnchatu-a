@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Sesta() {
+function Calzado() {
     return (
         <div>
             <h1>Sesta</h1>
@@ -9,4 +9,4 @@ function Sesta() {
     );
 }
 
-export default Sesta;
+export default Calzado;

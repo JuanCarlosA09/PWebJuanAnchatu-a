@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Tercera() {
+function Ofertas() {
     return (
         <div>
             <h1>Tercera</h1>
@@ -9,4 +9,4 @@ function Tercera() {
     );
 }
 
-export default Tercera;
+export default Ofertas;

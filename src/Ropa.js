@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Quinta() {
+function Ropa () {
     return (
         <div>
             <h1>Quinta</h1>
@@ -9,4 +9,4 @@ function Quinta() {
     );
 }
 
-export default Quinta;
+export default Ropa;

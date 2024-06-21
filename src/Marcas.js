@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Cuarta() {
+function Marcas() {
     return (
         <div>
             <h1>Cuarta</h1>
@@ -9,4 +9,4 @@ function Cuarta() {
     );
 }
 
-export default Cuarta;
+export default Marcas;

@@ -4,7 +4,7 @@ function Marcas() {
     return (
         <div>
             <h1>Cuarta</h1>
-            <p>This is the Quinta page.</p>
+            <p>bienvenido.</p>
         </div>
     );
 }
